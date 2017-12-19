@@ -1,0 +1,1 @@
+print('Skt is a good man')
